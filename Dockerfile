@@ -1,2 +1,2 @@
 FROM ghcr.io/ondrejsika/counter
-ENV EXTRA_TEXT=v2
+ENV EXTRA_TEXT=v3
